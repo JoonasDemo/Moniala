@@ -56,6 +56,6 @@ Sprinttti seuranta
 	Sprintti 5 sisälsi prototyypin rakentelua ja viimeisen kierrätyskeskus käyn-nin jossa ryhmä 1 kyseli asiakkaiden mielipiteitä ideasta.
 
 	
-		Sprintti 7
+	Sprintti 7
 
-Viimeistely ja palautteen mukaan muutosten tekeminen ja sitten proton pa-lautus
+	Viimeistely ja palautteen mukaan muutosten tekeminen ja sitten proton pa-lautus
